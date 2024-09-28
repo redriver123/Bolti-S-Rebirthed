@@ -31,4 +31,4 @@ pip install pycaw
 pip install comtypes
 pip install monitorcontrol
 pip install cryptography
-pip installpypiwin32
+pip install pypiwin32
